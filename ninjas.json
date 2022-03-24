@@ -1,0 +1,29 @@
+                [{
+                  "name":"Yoshi",
+                 "belt":"Green",
+                 "rate":"500",
+                 "available":true,
+                 "thumb": "content/images/yoshi.jfif"
+                },
+                {
+                  "name":"Crstal",
+                  "belt":"pink",
+                  "rate":"1000",
+                  "available":true,
+                  "thumb": "content/images/crystal.jfif"
+                },
+                {
+                  "name":"Ryu",
+                 "belt":"Red",
+                 "rate":"1500",
+                 "available":true,
+                 "thumb": "content/images/ryu.jfif"
+                 },
+                 {
+                   "name":"Shaun",
+                  "belt":"yellow",
+                  "rate":"1500",
+                  "available":true,
+                  "thumb": "content/images/shaun.jfif"
+
+              }]
